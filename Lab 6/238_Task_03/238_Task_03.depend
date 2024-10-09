@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1728447095 source:c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\main.cpp
+	<iostream>
+	"header.h"
+	"header2.h"
+	"header3.h"
+
+1728446580 source:c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\header.cpp
+	"header.h"
+	"header2.h"
+	"header3.h"
+
+1728446060 c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\header.h
+	<bits/stdc++.h>
+
+1728446984 c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\header2.h
+	<bits/stdc++.h>
+
+1728446989 c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\header3.h
+	<bits/stdc++.h>
+
+1728446815 source:c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\header2.cpp
+	"header.h"
+	"header2.h"
+	"header3.h"
+
+1728446928 source:c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_03\header3.cpp
+	"header.h"
+	"header2.h"
+	"header3.h"
+

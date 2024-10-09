@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728444723 source:c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_02\main.cpp
+	<iostream>
+	"header.h"
+
+1728445969 c:\users\hp\documents\220041238-cse-4302\lab 6\238_task_02\header.h
+	<bits/stdc++.h>
+
